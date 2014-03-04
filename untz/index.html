@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Untzdag?</title>
+	<meta charset="utf-8">
+	<style>
+	@import url(http://fonts.googleapis.com/css?family=Share+Tech+Mono);
+
+	body, html {
+	    background-color: #000 ;
+	    color: #FFF;
+	    font-family: 'Share Tech Mono', monospace, sans-serif;
+	    font-size: 100px;
+	}
+	#wrapper {
+	    position: absolute;
+	    display: block;
+	    width: 700px;
+	    height: 130px;
+
+	    top: 0;
+	    bottom: 0;
+	    left: 0;
+	    right: 0;
+	    margin: auto;
+
+	    font-family: Helvetica;
+	    font-weight: 100;
+
+	    text-align: center;
+	}
+	#ticker {
+	    font-family: 'Share Tech Mono', monospace, sans-serif;
+	    font-size: 100px;
+
+	    color: #fff;
+	    margin-bottom: 100px;
+	}
+	#ticker, #days, #hours, #minutes, #seconds {
+	    position: relative;
+	    display: inline-block;
+	    color: #fff;
+	}
+
+	#days:after, #hours:after, #minutes:after, #seconds:after {
+	    position: absolute;
+	    bottom: -15px;
+	    left: 0;
+	    right: 0;
+	    color: #fff;
+
+	    font-size: 20px;
+	    text-align: center;
+	}
+
+	#days:after {
+	    content: "dagar";
+	    color: #fff;
+	}
+	#hours:after {
+	    content: "timmar";
+	    color: #fff;
+	}
+	#minutes:after {
+	    content: "minuter";
+	    color: #fff;
+	}
+	#seconds:after {
+	    content: "sekunder";
+	    color: #fff;
+	}
+	#message {
+	    font-family: 'Share Tech Mono', monospace, sans-serif;
+	    font-size: 70px;
+	    position: relative;
+	    margin-top: -50px;
+	    padding-bottom: 25px;
+	}
+	</style>
+</head>
+
+<div id="wrapper">
+	<div id="message">
+		Untzdagspub?
+	</div>
+	<div id="ticker">
+		<div id="days"></div> <div id="hours"></div>:<div id="minutes"></div>:<div id="seconds"></div>
+	</div>
+</div>
+<script>
+timer()
+var counter = setInterval(timer, 1000);
+
+function timer() {
+	var wednesday = 3;
+
+	// variables for time units
+	var days, hours, minutes, seconds;
+
+	var nextUntz = new Date();
+
+	nextUntz.setDate((wednesday - nextUntz.getDay() + 7)%7 + nextUntz.getDate());
+	nextUntz.setMinutes(17);
+	nextUntz.setHours(17);
+	nextUntz.setSeconds(0);
+
+	nextUntz = nextUntz.getTime();
+
+	var today = new Date().getTime();
+	var diff = (nextUntz - today) / 1000;
+
+	if (diff > (-3600*9*1000) && diff < 0) {
+		ticker.innerHTML = "untz.";
+		return;
+	}
+
+	days = parseInt(diff / 86400);
+	diff = diff % 86400;
+	if(days < 10) {
+		days = "0"+days
+	}
+
+	hours = parseInt(diff / 3600);
+	diff = diff % 3600;
+	if(hours < 10) {
+		hours = "0"+hours
+	}
+
+	minutes = parseInt(diff / 60);
+	if(minutes < 10) {
+		minutes = "0"+minutes
+	}
+	seconds = parseInt(diff % 60);
+	if(seconds < 10) {
+		seconds = "0"+seconds
+	}
+
+	document.getElementById('days').innerHTML = days;
+	document.getElementById('hours').innerHTML = hours;
+	document.getElementById('minutes').innerHTML = minutes;
+	document.getElementById('seconds').innerHTML = seconds;
+}
+</script>
+</html>

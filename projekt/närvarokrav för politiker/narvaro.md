@@ -1,0 +1,117 @@
+Närvarokrav för riksdagsledamöter 
+=================================
+
+Riksdagsledamöter är folkvalda representanter vars uppgift är att förändra
+landet till det bättre. Det är ett förtroendeuppdrag och de ska även agera som
+föredömen för folket. I teorin i alla fall...
+
+Den 1 januari 2012 införde CSN nya rutiner för att hantera den ökade skolken
+hos gymnasieelever. De nya reglerna innebär att ifall en elev är
+olovligt frånvarande mer än 20% av sina studier ska den eleven få sitt
+studiebidrag indraget. Gymnasiet är frivilligt och således kan studiebidraget
+bli indraget ifall eleven inte försöker prestera i sina studier.
+
+> Under läsåret 2012/2013 fick drygt 21 000 elever sitt studiebidrag indraget
+> på grund av skolk. Det var 6,2 procent av totalt cirka 343 000 gymnasieelever
+> som fick studiebidraget det läsåret.
+- [CSN][csn]
+
+[csn]: http://www.csn.se/press/fakta-skolk
+
+Våra ledstjärnor i samhället, riksdagsledamöterna, borde ha perfekt närvaro.
+Vilket de tyvärr inte har. Av de 280 riksdagsledamöter som har suttit i
+riksdagen under hela mandatperioden skulle 40 st få indraget studiebidrag.
+40/280 = 14.3%, det är mer än dubbelt så många ifall man jämför med eleverna.
+
+Inom arbetslivet kan en anställd förlora jobbet ifall hen under upprepade
+tillfällen är olovligt frånvarande. Logiskt, då arbetsgivaren anställer
+i syfte om att få arbete utfört. 
+
+Eftersom elever får indraget studiebidrag ifall de är olovligt frånvarande mer
+än 20% borde detta även gälla riksdagsledamöter och deras löner eller så kan de
+avgå. Ingångslönen för en riksdagsledamot är [59 800][pengar] kronor i månaden
+(innan skatt).
+
+Här nedan följer en tabell av de riksdagsledamöter som tyvärr har mer än 20%
+frånvaro. Det motiveras inte varför de var frånvarande på riksdagens hemsida och
+kan således vara giltig frånvaro pga. sjukdomsfall eller andra godtagbara
+anledningar. 
+
+[pengar]: http://www.riksdagen.se/Sa-funkar-riksdagen/Sa-arbetar-ledamoterna/Ekonomiska-villkor/
+
+<table>
+	<thead>
+		<tr><th>Frånvaro</th><th>Namn</th><th>Parti</th></tr>
+	</thead>
+	<tbody>
+		<tr><td>20%</td><td>Gunvor G Ericson</td><td>MP</td></tr>
+		<tr><td>20.4%</td><td>Berit Högman</td><td>S</td></tr>
+		<tr><td>20.4%</td><td>Nina Lundström</td><td>FP</td></tr>
+		<tr><td>20.4%</td><td>Cecilia Magnusson</td><td>M</td></tr>
+		<tr><td>20.5%</td><td>Ulrika Carlsson</td><td>C</td></tr>
+		<tr><td>20.5%</td><td>Ylva Johansson</td><td>S</td></tr>
+		<tr><td>20.6%</td><td>Ingela Nylund Watz</td><td>S</td></tr>
+		<tr><td>20.8%</td><td>Margareta Cederfelt</td><td>M</td></tr>
+		<tr><td>20.8%</td><td>Rossana Dinamarca</td><td>V</td></tr>
+		<tr><td>21.3%</td><td>Anders Åkesson</td><td>C</td></tr>
+		<tr><td>21.4%</td><td>Emma Carlsson Löfdahl</td><td>FP</td></tr>
+		<tr><td>21.5%</td><td>Jan Ertsborn</td><td>FP</td></tr>
+		<tr><td>21.5%</td><td>Lars Ohly</td><td>V</td></tr>
+		<tr><td>21.7%</td><td>Krister Örnfjäder</td><td>S</td></tr>
+		<tr><td>22%</td><td>Anders Karlsson</td><td>S</td></tr>
+		<tr><td>22.2%</td><td>Mikael Oscarsson</td><td>KD</td></tr>
+		<tr><td>22.6%</td><td>Anders W Jonsson</td><td>C</td></tr>
+		<tr><td>22.7%</td><td>Mikael Cederbratt</td><td>M</td></tr>
+		<tr><td>23.1%</td><td>Christian Holm</td><td>M</td></tr>
+		<tr><td>23.3%</td><td>Marie Nordén</td><td>S</td></tr>
+		<tr><td>23.6%</td><td>Carina Hägg</td><td>S</td></tr>
+		<tr><td>23.7%</td><td>Per Åsling</td><td>C</td></tr>
+		<tr><td>24.3%</td><td>Eva Flyborg</td><td>FP</td></tr>
+		<tr><td>24.4%</td><td>Barbro Westerholm</td><td>FP</td></tr>
+		<tr><td>24.9%</td><td>Mikael Damberg</td><td>S</td></tr>
+		<tr><td>25.2%</td><td>Björn von Sydow</td><td>S</td></tr>
+		<tr><td>26%</td><td>Anna Kinberg Batra</td><td>M</td></tr>
+		<tr><td>26.6%</td><td>Åsa Torstensson</td><td>C</td></tr>
+		<tr><td>27.2%</td><td>Lena Hallengren</td><td>S</td></tr>
+		<tr><td>27.8%</td><td>Christer Winbäck</td><td>FP</td></tr>
+		<tr><td>28.2%</td><td>Urban Ahlin</td><td>S</td></tr>
+		<tr><td>28.2%</td><td>Kent Härstedt</td><td>S</td></tr>
+		<tr><td>29.2%</td><td>Jonas Sjöstedt</td><td>V</td></tr>
+		<tr><td>30%</td><td>Ulla Andersson</td><td>V</td></tr>
+		<tr><td>31.7%</td><td>Cristina Husmark Pehrsson</td><td>M</td></tr>
+		<tr><td>32.3%</td><td>Ulrika Karlsson</td><td>M</td></tr>
+		<tr><td>32.8%</td><td>Abir Al-Sahlani</td><td>C</td></tr>
+		<tr><td>34%</td><td>Johan Pehrson</td><td>FP</td></tr>
+		<tr><td>34.1%</td><td>Kerstin Lundgren</td><td>C</td></tr>
+		<tr><td>40.2%</td><td>Håkan Juholt</td><td>S</td></tr>
+		<tr><td>47.9%</td><td>Marietta de Pourbaix-Lundin</td><td>M</td></tr>
+	</tbody>
+</table> - [Hämtat][statistik] den 10 November 2013
+
+[statistik]: http://data.riksdagen.se/voteringlista/?rm=2013%2F14&rm=2012%2F13&rm=2011%2F12&rm=2010%2F11&bet=&punkt=&valkrets=&rost=&iid=&sz=10000&utformat=HTML&gruppering=namn
+
+En anledning till den höga frånvaron är det informella systemet kvittning.
+Kvittning är en överenskommelse mellan de två blocken där flera ledamöter kan
+frivilligt avstå från att rösta. De avstår för att kompensera ifall ledamöter
+ifrån det motstående blocket inte kan närvara vid voteringen. 
+
+Eftersom SD inte tillhör någon av blocken kan de inte ta del av kvittning.
+Vilket gör att SD har faktiskt lägst frånvaro av alla partier i riksdagen och
+således representerar sitt parti bäst.
+
+Marietta de Pourbaix-Lundin har missat 959 av 2001 omröstningar denna
+mandatperiod. 
+
+> "Det beror på att hon är utsedd till svensk delegationsledare till Europarådet
+> och således reser väldigt mycket", säger Oscar Karlflo, politisk sekreterare
+> på Moderaternas riksdagskansli.
+ - [Dagbladet][dagbladet]
+
+[dagbladet]: http://dagbladet.se/nyheter/sundsvall/1.6432993-sa-skolkar-politikerna
+
+Marietta verkar redan ha ett annat viktigt arbeta att utföra och någon annan
+borde därför ta över hennes plats i riksdagen. 
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Skrivet av karlek _(Henry Eklind)_ - Söndagen den 10 November 2013

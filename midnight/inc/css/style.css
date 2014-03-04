@@ -1,0 +1,160 @@
+body {
+   font-family: 'Ubuntu', 'Helvetica', sans-serif;
+   overflow-y: scroll;
+   width: 776px;
+   margin: 0 auto;
+}
+
+header {
+   border-bottom: 1px dashed #ccc;
+}
+
+header img {
+   position: relative;
+   top: 20px;
+}
+
+a:link {
+   color: #6af;
+   text-decoration: none;   
+}
+a:visited {
+   color: #6aa;
+   text-decoration: underline;
+}
+
+a:hover {
+   text-decoration: underline;
+}
+
+a:active {
+   color: #333;
+}
+
+h1 {
+   font-family: 'Times', serif;
+   font-size: 32px;
+   background-color: inherit;
+   padding: 5px;
+   margin-bottom: 1px;
+   border-bottom: 1px solid #ccc;
+   text-align: center;
+}
+
+h1 a:hover {
+   text-decoration: underline;
+}
+
+h2 {
+   font-size: 26px;
+   margin-left: 202px;
+}
+
+h3 {
+   font-size: 20px;
+}
+
+i {
+   font-style: italic;
+}
+
+b {
+   font-weight: bold;
+}
+
+section {
+   margin: 0 auto 20px;
+   border-bottom: 1px dashed #ccc;
+   padding-top: 10px;
+}
+
+article {
+   margin: 10px 0 1px 0;
+   border-bottom: 1px solid #ccc;
+   padding-bottom: 10px;
+   line-height: 32px;
+}
+
+article figure {
+   float: left;
+   margin: 9px 20px 10px 0;
+   padding: 10px;
+   border: 1px dashed #ccc;   
+}
+
+article img {
+   float: left;
+   border: 1px solid #999;
+}
+
+article p {
+   color: #555;
+   margin-bottom: 20px;
+}
+
+article p:first-line {
+   color: #000;
+}
+
+article p:last-child {
+   margin-bottom: 0;
+}
+
+article p:hover {
+   color: #000;
+   background-color: inherit;
+}
+
+article a {
+   color: #333;
+   text-decoration: none;
+   border-bottom: 1px dashed #acf;
+}
+
+#things {
+   margin-top: 80px;
+   height: 350px;
+   text-align: center;
+}
+
+.left, .right {
+   width: 348px;
+   margin-bottom: 80px;
+   height: 100px;
+   padding: 0 20px;
+}
+
+.left {
+   float: left;
+}
+
+.right {
+   float: right;
+}
+
+footer {
+   background-color: inherit;
+   color: #aaa;
+   text-align: center;
+   font-size: 10px;
+   word-spacing: 3px;
+}
+
+footer:hover {
+   background-color: inherit;
+   color: #555;
+}
+
+footer a {
+   background-color: inherit;
+   color: #6ac;
+   font-size: 12px;
+   text-decoration: none;
+   padding-right: 7px;
+   padding-bottom: 2px;
+   background: url('../img/seperator.gif') no-repeat right;
+}
+
+footer a:hover {
+   text-decoration: underline;
+}
