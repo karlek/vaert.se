@@ -59,7 +59,7 @@ h2 {
 	width: 175px;
 }
 
-#work tr:not(:last-child) {
+#work tr:not(:last-child), #etc tr:not(:last-child) {
 	border-bottom: 1px solid #dfdfdf;
 }
 
@@ -67,11 +67,11 @@ h2 {
 	padding-bottom: 25px;
 }
 
-#work tr:not(:last-child) td.desc {
+#work tr:not(:last-child) td.desc, #etc tr:not(:last-child) td.desc {
 	padding-bottom: 25px;
 }
 
-#work tr:not(:first-child) td.desc {
+#work tr:not(:first-child) td.desc, #etc tr:not(:first-child) td.desc {
 	padding-top: 35px;
 }
 
@@ -100,6 +100,7 @@ h2 {
 	margin-left: 10px;
 	margin-right: 1px;
 	padding: 10px;
+	width: 200px;
 }
 
 .name {
