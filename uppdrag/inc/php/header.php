@@ -8,6 +8,7 @@
       <meta name="Author" content="karlek">
 
       <link rel="stylesheet" href="inc/css/styles.php">
+	  <link rel="shortcut icon" href="http://vaert.se/inc/img/fav.ico" type="image/x-icon">
 
       <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Andada">
       <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Ubuntu">

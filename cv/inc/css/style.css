@@ -37,6 +37,14 @@ h2 {
 	text-transform: uppercase;
 }
 
+.ambition {
+	width: 700px;
+}
+
+#lang {
+	margin-bottom: 30px;
+}
+
 #lang td:first-child {
 	font-weight: bold;
 	width: 175px;
@@ -61,6 +69,10 @@ h2 {
 
 #work tr:not(:last-child), #etc tr:not(:last-child) {
 	border-bottom: 1px solid #dfdfdf;
+}
+
+#school h2 {
+	margin-top: 55px;
 }
 
 #school tr:not(:last-child) td {
